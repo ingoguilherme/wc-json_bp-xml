@@ -1,0 +1,2661 @@
+[
+  {
+    "id": 3381,
+    "name": "Protetor de Aro",
+    "slug": "protetor-de-aro",
+    "permalink": "http://facilitashop.com.br/produto/protetor-de-aro/",
+    "date_created": "2017-05-17T19:19:55",
+    "date_created_gmt": "2017-05-17T19:19:55",
+    "date_modified": "2017-06-03T03:33:06",
+    "date_modified_gmt": "2017-06-03T03:33:06",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>INDICAÇÃO: Este inovador acessório pode ser utilizado por pessoas de todas as idades protegendo e prevenindo a formação de calos, calosidades e ferimentos nas mãos dos cadeirantes, além de evitar a desagradável sensação de tocar no aro metálico, isolando a temperatura do calor do verão ou do frio do inverno, dando uma “pegada” firme e macia. Ele foi desenvolvido para proporcionar um maior conforto, aderência e impulsão, aumentando também o desempenho do usuário, fazendo com que o mesmo tenha mais mobilidade com menor esforço, sendo também recomendado para pessoas com mãos fracas, com sequelas ou deformidades que dificultam a impulsionar o aro com firmeza. Auxilia na adaptação do cadeirante, otimizando o desempenho e performance. O produto se encaixa perfeitamente em segundos no aro impulsor sem a necessidade de ferramentas. É pratico e fácil.</p>\n",
+    "short_description": "",
+    "sku": "",
+    "price": "280",
+    "regular_price": "280",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>280,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2801,
+      2463,
+      2841,
+      2551,
+      2761
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 690,
+        "name": "Acessórios",
+        "slug": "cadeira-acessorio"
+      },
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 705,
+        "name": "Aros de Impulsão",
+        "slug": "cadeira-acessorio-aro-impulsao"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 692,
+        "name": "Rodas",
+        "slug": "cadeira-acessorios-roda"
+      },
+      {
+        "id": 696,
+        "name": "Segurança",
+        "slug": "cadeira-acessorios-roda-seguranca"
+      }
+    ],
+    "tags": [
+      {
+        "id": 773,
+        "name": "acessório",
+        "slug": "acessorio"
+      },
+      {
+        "id": 611,
+        "name": "acessorios",
+        "slug": "acessorios"
+      },
+      {
+        "id": 771,
+        "name": "aro",
+        "slug": "aro"
+      },
+      {
+        "id": 776,
+        "name": "aros",
+        "slug": "aros"
+      },
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 770,
+        "name": "protetor",
+        "slug": "protetor"
+      },
+      {
+        "id": 775,
+        "name": "protetores",
+        "slug": "protetores"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      },
+      {
+        "id": 774,
+        "name": "segurança",
+        "slug": "seguranca"
+      }
+    ],
+    "images": [
+      {
+        "id": 3401,
+        "date_created": "2017-05-17T19:14:37",
+        "date_created_gmt": "2017-05-17T19:14:37",
+        "date_modified": "2017-05-17T19:14:37",
+        "date_modified_gmt": "2017-05-17T19:14:37",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/GO-PAUHER-1.jpg",
+        "name": "GO-PAUHER",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 3411,
+        "date_created": "2017-05-17T19:18:57",
+        "date_created_gmt": "2017-05-17T19:18:57",
+        "date_modified": "2017-05-17T19:18:57",
+        "date_modified_gmt": "2017-05-17T19:18:57",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/gopahuer-protetor-aro-22-azul-2-un-ortho-pauher-1.jpg",
+        "name": "gopahuer-protetor-aro-22-azul-2-un-ortho-pauher-1",
+        "alt": "",
+        "position": 1
+      },
+      {
+        "id": 3421,
+        "date_created": "2017-05-17T19:31:35",
+        "date_created_gmt": "2017-05-17T19:31:35",
+        "date_modified": "2017-05-17T19:31:35",
+        "date_modified_gmt": "2017-05-17T19:31:35",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/cores_go_pauher.jpg",
+        "name": "cores_go_pauher",
+        "alt": "",
+        "position": 2
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 25441,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/3381"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3012,
+    "name": "Pneu Kenda",
+    "slug": "pneu-kenda",
+    "permalink": "http://facilitashop.com.br/produto/pneu-kenda/",
+    "date_created": "2017-05-08T20:41:26",
+    "date_created_gmt": "2017-05-08T20:41:26",
+    "date_modified": "2017-06-03T03:34:17",
+    "date_modified_gmt": "2017-06-03T03:34:17",
+    "type": "variable",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p><strong>PNEUS DE ALTA PERFORMANCE.</strong></p>\n<p>Capacidade de  alta pressão permitindo melhor deslizamento da cadeira.<br />\nDesenho otimizado proporcionando melhor deslizamento, frenagem e menor acumulo de sujeira na superfície.<br />\nMais leves que os modelos convencionais.<br />\nMaior durabilidade.<br />\nÓtimo desempenho para rodas com cambagem.</p>\n",
+    "short_description": "",
+    "sku": "10002",
+    "price": "360",
+    "regular_price": "360",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>360,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "1",
+    "dimensions": {
+      "length": "2",
+      "width": "2",
+      "height": "2"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "tudocadeirante-221",
+    "shipping_class_id": 451,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2981,
+      2441,
+      2841,
+      2761,
+      3381
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 690,
+        "name": "Acessórios",
+        "slug": "cadeira-acessorio"
+      },
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 698,
+        "name": "Pneu",
+        "slug": "cadeira-acessorios-pneu"
+      },
+      {
+        "id": 699,
+        "name": "Traseiro",
+        "slug": "cadeira-acessorios-pneu-traseiro"
+      }
+    ],
+    "tags": [
+      {
+        "id": 773,
+        "name": "acessório",
+        "slug": "acessorio"
+      },
+      {
+        "id": 611,
+        "name": "acessorios",
+        "slug": "acessorios"
+      },
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 631,
+        "name": "kenda",
+        "slug": "kenda"
+      },
+      {
+        "id": 621,
+        "name": "pneu",
+        "slug": "pneu"
+      },
+      {
+        "id": 779,
+        "name": "pneus",
+        "slug": "pneus"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      },
+      {
+        "id": 780,
+        "name": "traseiro",
+        "slug": "traseiro"
+      }
+    ],
+    "images": [
+      {
+        "id": 3011,
+        "date_created": "2017-05-08T19:34:58",
+        "date_created_gmt": "2017-05-08T19:34:58",
+        "date_modified": "2017-05-08T19:34:58",
+        "date_modified_gmt": "2017-05-08T19:34:58",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/Pneus-Kenda.jpg",
+        "name": "Pneus Kenda",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "id": 5,
+        "name": "Tamanho",
+        "position": 2,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "22”",
+          "24”",
+          "25”",
+          "26”"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [
+      3041
+    ],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 19241,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/3012"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2981,
+    "name": "Pneu shox",
+    "slug": "pneu-shox",
+    "permalink": "http://facilitashop.com.br/produto/pneu-shox/",
+    "date_created": "2017-05-08T18:01:08",
+    "date_created_gmt": "2017-05-08T18:01:08",
+    "date_modified": "2017-06-03T03:35:06",
+    "date_modified_gmt": "2017-06-03T03:35:06",
+    "type": "variable",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<div>Para usuários que a comodidade de não ter que calibrar os pneus é importante.</div>\n<div>Pneus maciços fabricados com polímeros de grande resistência. Simula a calibragem dos pneus de alta pressão .</div>\n<div>Não riscam paredes ou pisos. Alguma perca de desempenho em relação aos infláveis.</div>\n<div>Desenho atraente em cores variadas.</p>\n",
+    "short_description": "",
+    "sku": "10001",
+    "price": "456",
+    "regular_price": "456",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>456,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "tudocadeirante-221",
+    "shipping_class_id": 451,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2841,
+      2761,
+      2441,
+      2351,
+      2463
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 690,
+        "name": "Acessórios",
+        "slug": "cadeira-acessorio"
+      },
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 698,
+        "name": "Pneu",
+        "slug": "cadeira-acessorios-pneu"
+      },
+      {
+        "id": 699,
+        "name": "Traseiro",
+        "slug": "cadeira-acessorios-pneu-traseiro"
+      }
+    ],
+    "tags": [
+      {
+        "id": 773,
+        "name": "acessório",
+        "slug": "acessorio"
+      },
+      {
+        "id": 611,
+        "name": "acessorios",
+        "slug": "acessorios"
+      },
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 631,
+        "name": "kenda",
+        "slug": "kenda"
+      },
+      {
+        "id": 621,
+        "name": "pneu",
+        "slug": "pneu"
+      },
+      {
+        "id": 779,
+        "name": "pneus",
+        "slug": "pneus"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      },
+      {
+        "id": 641,
+        "name": "shox",
+        "slug": "shox"
+      },
+      {
+        "id": 780,
+        "name": "traseiro",
+        "slug": "traseiro"
+      }
+    ],
+    "images": [
+      {
+        "id": 3001,
+        "date_created": "2017-05-08T18:15:18",
+        "date_created_gmt": "2017-05-08T18:15:18",
+        "date_modified": "2017-05-08T18:15:18",
+        "date_modified_gmt": "2017-05-08T18:15:18",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/Shox-Color-Tires-1.jpg",
+        "name": "Shox Color Tires",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 2991,
+        "date_created": "2017-05-08T18:15:10",
+        "date_created_gmt": "2017-05-08T18:15:10",
+        "date_modified": "2017-05-08T18:15:10",
+        "date_modified_gmt": "2017-05-08T18:15:10",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/Pneus-Shox-1.jpg",
+        "name": "Pneus Shox",
+        "alt": "",
+        "position": 1
+      }
+    ],
+    "attributes": [
+      {
+        "id": 6,
+        "name": "Cor",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "amarelo",
+          "Azul",
+          "Cinza",
+          "Preto",
+          "Rosa",
+          "Vermelho"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Tamanho",
+        "position": 1,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "22”",
+          "24”",
+          "25”"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [
+      3021
+    ],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 18841,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2981"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2841,
+    "name": "EXO",
+    "slug": "exo",
+    "permalink": "http://facilitashop.com.br/produto/exo/",
+    "date_created": "2017-05-08T15:33:01",
+    "date_created_gmt": "2017-05-08T15:33:01",
+    "date_modified": "2017-06-03T03:35:56",
+    "date_modified_gmt": "2017-06-03T03:35:56",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "2100",
+    "regular_price": "2100",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>2.100,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": true,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      3012,
+      2981,
+      2401,
+      2351,
+      2463
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 684,
+        "name": "Manual",
+        "slug": "cadeira-manual"
+      }
+    ],
+    "tags": [
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 591,
+        "name": "EXO",
+        "slug": "exo"
+      },
+      {
+        "id": 141,
+        "name": "manual",
+        "slug": "manual"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      }
+    ],
+    "images": [
+      {
+        "id": 2811,
+        "date_created": "2017-05-04T19:50:34",
+        "date_created_gmt": "2017-05-04T19:50:34",
+        "date_modified": "2017-05-04T19:50:34",
+        "date_modified_gmt": "2017-05-04T19:50:34",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/BM275687-W.png",
+        "name": "BM275687 W",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "Rodas Dianteiras",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "5”x38mm"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Posição do CG",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "– 5 cm"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Peso para Transporte",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "*8,5 Kg (*sem rodas traseiras"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura do Encosto",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "36,40"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Traseira do assento ao piso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "43CM"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Largura do Assento",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "36, 38, 40, 42"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Profundidade do Assento",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "40,42,44"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Frontal do assento ao piso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "48CM"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Tolerância de Peso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "100KG"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 18432,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2841"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2801,
+    "name": "INFINITY",
+    "slug": "infinity",
+    "permalink": "http://facilitashop.com.br/produto/infinity/",
+    "date_created": "2017-05-08T13:00:30",
+    "date_created_gmt": "2017-05-08T13:00:30",
+    "date_modified": "2017-06-03T03:36:56",
+    "date_modified_gmt": "2017-06-03T03:36:56",
+    "type": "variable",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "3500",
+    "regular_price": "3500",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>3.500,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "1",
+    "dimensions": {
+      "length": "12",
+      "width": "12",
+      "height": "12"
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "tudocadeirante-221",
+    "shipping_class_id": 451,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2841,
+      3012,
+      2351,
+      2463,
+      2441
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 684,
+        "name": "Manual",
+        "slug": "cadeira-manual"
+      }
+    ],
+    "tags": [
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 581,
+        "name": "infinity",
+        "slug": "infinity"
+      },
+      {
+        "id": 141,
+        "name": "manual",
+        "slug": "manual"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      }
+    ],
+    "images": [
+      {
+        "id": 2951,
+        "date_created": "2017-05-08T15:57:33",
+        "date_created_gmt": "2017-05-08T15:57:33",
+        "date_modified": "2017-05-08T15:57:33",
+        "date_modified_gmt": "2017-05-08T15:57:33",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/Smart-Infinity-2.png",
+        "name": "Smart Infinity",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "Altura do Encosto",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "30 (cm)",
+          "31 (cm)",
+          "32(cm)",
+          "33 (cm)",
+          "34 (cm)",
+          "35 (cm)",
+          "36 (cm)",
+          "37 (cm)",
+          "( 38 cm)",
+          "39 (cm)",
+          "40 (cm)",
+          "41 (cm)",
+          "42 (cm)",
+          "43(cm)",
+          "44 (cm)",
+          "45 (cm)",
+          "46 (cm)",
+          "47 (cm)",
+          "48 (cm)",
+          "49 (cm)",
+          "50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Cambagem",
+        "position": 0,
+        "visible": true,
+        "variation": false,
+        "options": [
+          "0 - 3 - (graus)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Rodas Dianteiras",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "4”",
+          "5\""
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Posição do CG",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Traseira do assento ao piso",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "40 (cm)",
+          "41 (cm)",
+          "42 (cm)",
+          "43 (cm)",
+          "44 (cm)",
+          "45 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Frontal do assento ao piso",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "45 (cm)",
+          "46 (cm)",
+          "47 (cm)",
+          "48 (cm)",
+          "49 (cm)",
+          "50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Tolerância de Peso",
+        "position": 0,
+        "visible": true,
+        "variation": false,
+        "options": [
+          "100 kg"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Largura do Assento",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "30 (cm)",
+          "31 (cm)",
+          "32 (cm)",
+          "33 (cm)",
+          "34 (cm)",
+          "35 (cm)",
+          "36 (cm)",
+          "37 (cm)",
+          "38 (cm)",
+          "39 (cm)",
+          "40 (cm)",
+          "41 (cm)",
+          "42 (cm)",
+          "43 (cm)",
+          "44 (cm)",
+          "45 (cm)",
+          "46 (cm)",
+          "47 (cm)",
+          "48 (cm)",
+          "49 (cm)",
+          "50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Profundidade do Assento",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "38 (cm)",
+          "39 (cm)",
+          "40 (cm)",
+          "41 (cm)",
+          "42 (cm)",
+          "43 (cm)",
+          "44 (cm)",
+          "45 (cm)",
+          "46 (cm)",
+          "47 (cm)",
+          "48 (cm)",
+          "49 (cm)",
+          "50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Estrutura fabricada em alumínio",
+        "position": 0,
+        "visible": true,
+        "variation": false,
+        "options": [
+          "T6"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [
+      3151
+    ],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 18311,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2801"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2761,
+    "name": "INFINITY SPORT",
+    "slug": "infinity-sport",
+    "permalink": "http://facilitashop.com.br/produto/infinity-sport/",
+    "date_created": "2017-05-08T12:58:28",
+    "date_created_gmt": "2017-05-08T12:58:28",
+    "date_modified": "2017-06-03T03:37:45",
+    "date_modified_gmt": "2017-06-03T03:37:45",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "4200",
+    "regular_price": "4200",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>4.200,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2801,
+      2463,
+      3012,
+      2981,
+      3381
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 684,
+        "name": "Manual",
+        "slug": "cadeira-manual"
+      }
+    ],
+    "tags": [
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 581,
+        "name": "infinity",
+        "slug": "infinity"
+      },
+      {
+        "id": 141,
+        "name": "manual",
+        "slug": "manual"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      },
+      {
+        "id": 781,
+        "name": "sport",
+        "slug": "sport"
+      }
+    ],
+    "images": [
+      {
+        "id": 2751,
+        "date_created": "2017-05-04T19:10:32",
+        "date_created_gmt": "2017-05-04T19:10:32",
+        "date_modified": "2017-05-04T19:10:32",
+        "date_modified_gmt": "2017-05-04T19:10:32",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/IMG_0675.jpg",
+        "name": "IMG_0675",
+        "alt": "",
+        "position": 0
+      },
+      {
+        "id": 2731,
+        "date_created": "2017-05-04T19:10:08",
+        "date_created_gmt": "2017-05-04T19:10:08",
+        "date_modified": "2017-05-04T19:10:08",
+        "date_modified_gmt": "2017-05-04T19:10:08",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/IMG_0665.jpg",
+        "name": "IMG_0665",
+        "alt": "",
+        "position": 1
+      },
+      {
+        "id": 2741,
+        "date_created": "2017-05-04T19:10:24",
+        "date_created_gmt": "2017-05-04T19:10:24",
+        "date_modified": "2017-05-04T19:10:24",
+        "date_modified_gmt": "2017-05-04T19:10:24",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/IMG_0668.jpg",
+        "name": "IMG_0668",
+        "alt": "",
+        "position": 2
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 18291,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2761"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2551,
+    "name": "ORION SL",
+    "slug": "orion-sl",
+    "permalink": "http://facilitashop.com.br/produto/orion-sl/",
+    "date_created": "2017-05-04T18:51:01",
+    "date_created_gmt": "2017-05-04T18:51:01",
+    "date_modified": "2017-06-03T03:39:04",
+    "date_modified_gmt": "2017-06-03T03:39:04",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p><strong>Orion SL (Super Leve)</strong></p>\n<p><u>Apresentação:</u> O mesmo sistema da ORION, <em>Close Frame</em> agora estilizada e desenhada com tubos mais leves para quem deseja e precisa de uma cadeira muito leve.</p>\n<p><strong>Publico Alvo:</strong> Usuários que precisem e priorizem uma cadeira bem leve para guardar no carro em detrimento de outros opcionais.</p>\n<p><strong>Desvantagem: </strong>Como objetivo é privilegiar o usuário com muita leveza, itens como assento rígido e encosto rígido não devem ser utilizados pelo peso que impõe ao modelo.</p>\n",
+    "short_description": "",
+    "sku": "",
+    "price": "3800",
+    "regular_price": "3800",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>3.800,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      3012,
+      2801,
+      2351,
+      3381,
+      2981
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 684,
+        "name": "Manual",
+        "slug": "cadeira-manual"
+      }
+    ],
+    "tags": [
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 785,
+        "name": "leve",
+        "slug": "leve"
+      },
+      {
+        "id": 141,
+        "name": "manual",
+        "slug": "manual"
+      },
+      {
+        "id": 782,
+        "name": "orion",
+        "slug": "orion"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      },
+      {
+        "id": 783,
+        "name": "sl",
+        "slug": "sl"
+      },
+      {
+        "id": 784,
+        "name": "super",
+        "slug": "super"
+      }
+    ],
+    "images": [
+      {
+        "id": 2941,
+        "date_created": "2017-05-08T13:24:25",
+        "date_created_gmt": "2017-05-08T13:24:25",
+        "date_modified": "2017-05-08T13:24:25",
+        "date_modified_gmt": "2017-05-08T13:24:25",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/IMG_7827-1.png",
+        "name": "IMG_7827",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "Posição do CG",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "0 a 12"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Peso para Transporte",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "5,5 Kg (*sem rodas traseiras)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Cambagem",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "0 - 3 (graus)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Rodas Dianteiras",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "5”"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura do Encosto",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "26 a 40 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Traseira do assento ao piso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "40 a 50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Frontal do assento ao piso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "45 a 53 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Tolerância de peso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "90 Kg"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Largura do Assento",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "33 a 42 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Profundidade do Assento",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "38 a 55 (cm)"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 16801,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2551"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2441,
+    "name": "Kit Elétrico – AVENTURA",
+    "slug": "kit-eletrico-aventura",
+    "permalink": "http://facilitashop.com.br/produto/kit-eletrico-aventura/",
+    "date_created": "2017-05-02T18:05:20",
+    "date_created_gmt": "2017-05-02T18:05:20",
+    "date_modified": "2017-06-03T03:41:22",
+    "date_modified_gmt": "2017-06-03T03:41:22",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p><u>“Tocar a cadeira é coisa do passado”</u></p>\n<p>Compatível com a maioria de modelos de cadeiras.</p>\n<p>Fácil e rápida instalação sem uso de ferramentas.</p>\n<p>Ótima autonomia e desempenho.</p>\n<p>O Smart AVENTURA pode ser facilmente adaptável à sua cadeira de rodas convencional, com ele você poderá alcançar excelente velocidade para vias externas, com ótima autonomia, permitindo um passeio seguro em vias públicas, pisos lisos, gramas, terrenos sem calçamento, trilhas, terra batida e em percursos inclinados ou planos.</p>\n<p>Perfeito para o seu deslocamento rápido nas intermediações do seu bairro, lazer, compras e demais atividades que desejar.</p>\n<p>O melhor de tudo, sem sair de sua cadeira e seu bom posicionamento habitual, podendo ser facilmente removido a hora e a tempo para entrar em locais internos ou ser transportada no carro, ônibus avião e outros mais.</p>\n",
+    "short_description": "",
+    "sku": "",
+    "price": "6800",
+    "regular_price": "6800",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>6.800,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2761,
+      3381,
+      2801,
+      2551,
+      2981
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 685,
+        "name": "Motorizada",
+        "slug": "cadeira-motorizada"
+      }
+    ],
+    "tags": [
+      {
+        "id": 661,
+        "name": "Aventura",
+        "slug": "aventura"
+      },
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 787,
+        "name": "elétrico",
+        "slug": "eletrico"
+      },
+      {
+        "id": 786,
+        "name": "kit",
+        "slug": "kit"
+      },
+      {
+        "id": 788,
+        "name": "motorizada",
+        "slug": "motorizada"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      }
+    ],
+    "images": [
+      {
+        "id": 2501,
+        "date_created": "2017-05-02T19:05:33",
+        "date_created_gmt": "2017-05-02T19:05:33",
+        "date_modified": "2017-05-02T19:05:33",
+        "date_modified_gmt": "2017-05-02T19:05:33",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/IMG_0098-1.png",
+        "name": "IMG_0098",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "Pneu",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "16\" x 1.75\" Levorin, 65 Lbs"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Acoplagem",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "Abraçadeiras de alumínio com pino receptor (para fixar na cadeira), com\n04 ͞braços͟ para ajuste de posicionamento milimétrico com terminais de acoplagem de rápida remoção"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Freio",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "Freio a disco + V-Brake duplo acionado por manetes"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Bateria",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "LITIO 36 v - 10ah"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Cubo Motor",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "XOFO 350w"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Tolerância de Peso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "120 KG"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Velocidade Máxima",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "25 KM/H"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Peso do Equipamento",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "13 KG"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 15632,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2441"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2463,
+    "name": "BIKE AVENTURA",
+    "slug": "bike-aventura",
+    "permalink": "http://facilitashop.com.br/produto/bike-aventura/",
+    "date_created": "2017-05-02T18:05:06",
+    "date_created_gmt": "2017-05-02T18:05:06",
+    "date_modified": "2017-06-03T03:43:53",
+    "date_modified_gmt": "2017-06-03T03:43:53",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "10003",
+    "price": "3200",
+    "regular_price": "3200",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>3.200,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2351,
+      3012,
+      2401,
+      2761,
+      2551
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 690,
+        "name": "Acessórios",
+        "slug": "cadeira-acessorio"
+      },
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 686,
+        "name": "Esportiva",
+        "slug": "cadeira-esportiva"
+      },
+      {
+        "id": 704,
+        "name": "Garfo Frontal",
+        "slug": "cadeira-acessorio-garfo"
+      },
+      {
+        "id": 683,
+        "name": "Handbike",
+        "slug": "cadeira-handbike"
+      },
+      {
+        "id": 684,
+        "name": "Manual",
+        "slug": "cadeira-manual"
+      }
+    ],
+    "tags": [
+      {
+        "id": 773,
+        "name": "acessório",
+        "slug": "acessorio"
+      },
+      {
+        "id": 611,
+        "name": "acessorios",
+        "slug": "acessorios"
+      },
+      {
+        "id": 661,
+        "name": "Aventura",
+        "slug": "aventura"
+      },
+      {
+        "id": 651,
+        "name": "BIKE",
+        "slug": "bike"
+      },
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 791,
+        "name": "esportiva",
+        "slug": "esportiva"
+      },
+      {
+        "id": 790,
+        "name": "frontal",
+        "slug": "frontal"
+      },
+      {
+        "id": 789,
+        "name": "grafo",
+        "slug": "grafo"
+      },
+      {
+        "id": 792,
+        "name": "handbike",
+        "slug": "handbike"
+      },
+      {
+        "id": 141,
+        "name": "manual",
+        "slug": "manual"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      }
+    ],
+    "images": [
+      {
+        "id": 2453,
+        "date_created": "2017-05-02T16:57:39",
+        "date_created_gmt": "2017-05-02T16:57:39",
+        "date_modified": "2017-05-02T16:57:39",
+        "date_modified_gmt": "2017-05-02T16:57:39",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/bike-ventura1.png",
+        "name": "bike ventura1",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 15621,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2463"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2401,
+    "name": "VEGA",
+    "slug": "vega",
+    "permalink": "http://facilitashop.com.br/produto/vega/",
+    "date_created": "2017-05-02T16:20:47",
+    "date_created_gmt": "2017-05-02T16:20:47",
+    "date_modified": "2017-06-03T03:44:29",
+    "date_modified_gmt": "2017-06-03T03:44:29",
+    "type": "variable",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "4920",
+    "regular_price": "4920",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>4.920,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "8.900",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2551,
+      2981,
+      2351,
+      2841,
+      2761
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 684,
+        "name": "Manual",
+        "slug": "cadeira-manual"
+      }
+    ],
+    "tags": [
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 141,
+        "name": "manual",
+        "slug": "manual"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      },
+      {
+        "id": 681,
+        "name": "Vega",
+        "slug": "vega"
+      }
+    ],
+    "images": [
+      {
+        "id": 3241,
+        "date_created": "2017-05-12T20:10:24",
+        "date_created_gmt": "2017-05-12T20:10:24",
+        "date_modified": "2017-05-12T20:10:24",
+        "date_modified_gmt": "2017-05-12T20:10:24",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/4.png",
+        "name": "4",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "Altura do Encosto",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "30 (cm)",
+          "31 (cm)",
+          "32(cm)",
+          "33 (cm)",
+          "34 (cm)",
+          "35 (cm)",
+          "36 (cm)",
+          "37 (cm)",
+          "38 (cm)",
+          "39 (cm)",
+          "40 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Profundidade do Assento",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "38 (cm)",
+          "39 (cm)",
+          "40 (cm)",
+          "41 (cm)",
+          "42 (cm)",
+          "43 (cm)",
+          "44 (cm)",
+          "45 (cm)",
+          "46 (cm)",
+          "47 (cm)",
+          "48 (cm)",
+          "49 (cm)",
+          "50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Frontal do assento ao piso",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "45 (cm)",
+          "46 (cm)",
+          "47 (cm)",
+          "48 (cm)",
+          "49 (cm)",
+          "50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Altura Traseira do assento ao piso",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "40 (cm)",
+          "41 (cm)",
+          "42 (cm)",
+          "43 (cm)",
+          "44 (cm)",
+          "45 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Largura do Assento",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "30 (cm)",
+          "31 (cm)",
+          "32 (cm)",
+          "33 (cm)",
+          "34 (cm)",
+          "35 (cm)",
+          "36 (cm)",
+          "37 (cm)",
+          "38 (cm)",
+          "39 (cm)",
+          "40 (cm)",
+          "41 (cm)",
+          "42 (cm)",
+          "43 (cm)",
+          "44 (cm)",
+          "45 (cm)",
+          "46 (cm)",
+          "47 (cm)",
+          "48 (cm)",
+          "49 (cm)",
+          "50 (cm)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Peso para Transporte",
+        "position": 0,
+        "visible": true,
+        "variation": false,
+        "options": [
+          "7,2 Kg (sem rodas traseiras e paralamas)\nPeso da roda traseira montada: 1.70"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Tolerância de Peso",
+        "position": 0,
+        "visible": true,
+        "variation": false,
+        "options": [
+          "100 Kg"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Cambagem",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "0 (graus)",
+          "1 (graus)",
+          "2 (graus)",
+          "3 (graus)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Rodas Dianteiras",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "3”",
+          "4”",
+          "5”"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Posição do Centro de Gravidade",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [
+      3251
+    ],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 15161,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2401"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2351,
+    "name": "ORION",
+    "slug": "orion",
+    "permalink": "http://facilitashop.com.br/produto/orion/",
+    "date_created": "2017-05-02T12:20:14",
+    "date_created_gmt": "2017-05-02T12:20:14",
+    "date_modified": "2017-06-03T03:45:43",
+    "date_modified_gmt": "2017-06-03T03:45:43",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "<p>Cadeira de Rodas Ultra Lite, fabricada mediante medidas individualizadas para usuários de vida ativa, com boa habilidade no manuseio da cadeira e com um diferencial em sua estrutura, o chamado Close Frame.</p>\n",
+    "sku": "",
+    "price": "4200",
+    "regular_price": "4200",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#82;&#36;</span>4.200,00</span>",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "in_stock": true,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [
+      2441,
+      3012,
+      2801,
+      2551,
+      2463
+    ],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 71,
+        "name": "All",
+        "slug": "all"
+      },
+      {
+        "id": 682,
+        "name": "Cadeira de Rodas",
+        "slug": "cadeira"
+      },
+      {
+        "id": 684,
+        "name": "Manual",
+        "slug": "cadeira-manual"
+      }
+    ],
+    "tags": [
+      {
+        "id": 131,
+        "name": "cadeira",
+        "slug": "cadeira"
+      },
+      {
+        "id": 777,
+        "name": "cadeiras",
+        "slug": "cadeiras"
+      },
+      {
+        "id": 141,
+        "name": "manual",
+        "slug": "manual"
+      },
+      {
+        "id": 782,
+        "name": "orion",
+        "slug": "orion"
+      },
+      {
+        "id": 772,
+        "name": "roda",
+        "slug": "roda"
+      },
+      {
+        "id": 778,
+        "name": "rodas",
+        "slug": "rodas"
+      }
+    ],
+    "images": [
+      {
+        "id": 2421,
+        "date_created": "2017-05-02T16:29:03",
+        "date_created_gmt": "2017-05-02T16:29:03",
+        "date_modified": "2017-05-02T16:29:03",
+        "date_modified_gmt": "2017-05-02T16:29:03",
+        "src": "http://facilitashop.com.br/wp-content/uploads/2017/05/2.png",
+        "name": "2",
+        "alt": "",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "Peso para Transporte",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "*8,2 Kg (*sem rodas traseiras e paralamas)"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Posição do Centro de Gravidade",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "0 à 12"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Rodas Dianteiras",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "5''"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Cambagem",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "0-3 G"
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Tolerância de Peso",
+        "position": 0,
+        "visible": false,
+        "variation": false,
+        "options": [
+          "120 KG"
+        ]
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [
+      {
+        "id": 14711,
+        "key": "_commission_per_product",
+        "value": ""
+      }
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products/2351"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://facilitashop.com.br/wp-json/wc/v2/products"
+        }
+      ]
+    }
+  }
+]
